@@ -1,0 +1,473 @@
+{
+  "data": {
+    "item": {
+      "variations": [
+        {
+          "id": "SW3D0UC4BQ",
+          "spin": "6JPMYL0W4L",
+          "price": {
+            "mrp": 9999,
+            "currency": "INR",
+            "store_price": 9999,
+            "offer_price": 5499,
+            "unit_level_price": "",
+            "offer_applied": {
+              "offer_id": "c269d894-d2a2-4d56-8988-28113260cf9e",
+              "listing_description": "45% OFF",
+              "product_description": "45% OFF",
+              "super_offer": false,
+              "mov_threshold": 0
+            }
+          },
+          "inventory": {
+            "total": 1,
+            "remaining": 0,
+            "message": "",
+            "in_stock": true
+          },
+          "images": [
+            "NI_CATALOG/IMAGES/CIW/2024/10/8/cf9a56bb-4ac6-47e9-9e91-61d4a358183b_943544_1.png",
+            "NI_CATALOG/IMAGES/CIW/2024/10/8/3dd52997-b2dc-426d-b6ec-e9c64c7d7468_943544_2.png",
+            "NI_CATALOG/IMAGES/CIW/2024/10/8/8efbed97-73aa-4bbb-8cae-e9803b7cc418_943544_3.png",
+            "NI_CATALOG/IMAGES/CIW/2024/10/8/25f279b2-39e4-4761-a19c-c523826e8049_943544_4.png",
+            "NI_CATALOG/IMAGES/CIW/2024/10/8/62b76f98-2108-4505-a83d-6c2b34bddc15_943544_5.png",
+            "NI_CATALOG/IMAGES/CIW/2024/10/8/db0dc71b-b4cd-4af8-9e1e-5bfc390f246c_943544_6.png"
+          ],
+          "videos": [],
+          "quantity": "1 pack",
+          "meta": {
+            "short_description": "",
+            "long_description": "",
+            "disclaimer": "Country Of Origin: India. The Shelf life of this product is 1095 days from the date of manufacture or packed by.The image(s) shown are representative of the actual product. While every effort has been made to maintain accurate and up to date product related content, it is recommended to read product labels, batch and manufacturing/packing details along with warnings and directions before using or consuming a packed product. For other products or any additional information, please contact the seller and in case you wish to contact the manufacturer/packer, the address mentioned on the product label should be used.",
+            "groups": [],
+            "coupon_less_offers": [],
+            "replacement_applicable": false,
+            "return_applicable": false,
+            "handpicked": false,
+            "applicable_business_category": ""
+          },
+          "dimensions": {
+            "length_in_cm": 31,
+            "width_in_cm": 16,
+            "height_in_cm": 48,
+            "volume_in_cc": 23808
+          },
+          "brand": "MOKOBARA",
+          "category": "Backpack and Laptop Bags",
+          "sla": {
+            "value": 0,
+            "unit": ""
+          },
+          "displayVariant": false,
+          "display_name": "Mokobara Solid Unisex The Transit Backpack (Black)",
+          "super_saver": false,
+          "sku_slot_info": {
+            "message": null,
+            "avail": true,
+            "is_avail": true,
+            "next_change_time": []
+          },
+          "sku_quantity_with_combo": "1 pack",
+          "listing_variant": true,
+          "max_allowed_quantity": 6,
+          "cart_allowed_quantity": {
+            "total": 1,
+            "message": "That’s all we have in stock at the moment!"
+          },
+          "weight_in_grams": 1160,
+          "volumetric_weight": 0,
+          "alcohol_content_percentage": 0,
+          "container_type": "",
+          "sub_category_type": "",
+          "brand_id": "e606a2701ffe4c24870e1fb8497ee8115e65413a",
+          "product_name_without_brand": "Mokobara Solid Unisex The Transit Backpack (Black)",
+          "sourcing_time": "",
+          "sourced_from": "",
+          "display_variant": false,
+          "last_ordered_at": 0,
+          "category_id": "f7af01b8-c84c-4bb5-a69c-2a871e39cfb4",
+          "sku_secondary_quantity": "",
+          "sub_category": "Backpacks",
+          "super_category": "Bags Wallets Accessories",
+          "store_id": "1386719",
+          "external_pharmacy_item": false,
+          "rx_required": false
+        }
+      ],
+      "available": true,
+      "categoryId": null,
+      "brand": "MOKOBARA",
+      "badges": [],
+      "sosAdsPositionData": null,
+      "category": null,
+      "topSlotTrackingContext": null,
+      "retrievalRank": 0,
+      "analytics": {
+        "objectValue": null,
+        "context": "{\"itemId\":\"SW3D0UC4BQ\",\"slotAvailability\":true}",
+        "impressionObjectName": "item-impression",
+        "clickObjectName": "click-item",
+        "extraFields": {}
+      },
+      "inStockAndSlotAvailable": true,
+      "adItem": false,
+      "avail": true,
+      "product_id": "P7M9WFVLNR",
+      "display_name": "Mokobara Solid Unisex The Transit Backpack (Black)",
+      "is_avail": true,
+      "in_stock": true,
+      "brand_id": "e606a2701ffe4c24870e1fb8497ee8115e65413a",
+      "product_name_without_brand": "Mokobara Solid Unisex The Transit Backpack (Black)",
+      "badge_info": null,
+      "is_ad_item": false,
+      "search_result_type": null,
+      "inline_message": null,
+      "ad_tracking_context": null,
+      "name_slug": "mokobara-solid-unisex-the-transit-backpack-black",
+      "item_card_view": "V2",
+      "super_category": null,
+      "sub_category": null
+    },
+    "widgets": [
+      {
+        "collectionId": 1,
+        "layoutId": 3538,
+        "id": 127768,
+        "active": 1,
+        "widgetInfo": {
+          "widgetType": "PRODUCT_HIGHLIGHTS_WIDGET",
+          "header": null,
+          "title": "Highlights",
+          "fallbackTitle": "",
+          "affordance": false,
+          "autoScrollTime": -1,
+          "description": "",
+          "platformVersionInfoList": null,
+          "widgetStyles": null,
+          "cities": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+            19,
+            20,
+            21,
+            22,
+            24,
+            35,
+            37,
+            38,
+            39,
+            40,
+            41,
+            42,
+            43,
+            49,
+            50,
+            52,
+            55,
+            57,
+            58,
+            60,
+            61,
+            63,
+            66,
+            69,
+            73,
+            74,
+            75,
+            77,
+            78,
+            79,
+            80,
+            81,
+            83,
+            98,
+            110,
+            117,
+            120,
+            138,
+            162,
+            10000,
+            10025,
+            10459
+          ],
+          "widgetIdentifier": null,
+          "analytics": {
+            "objectValue": null,
+            "context": "{}",
+            "impressionObjectName": "impression-menu-widget",
+            "clickObjectName": null,
+            "extraFields": {
+              "widgetId": "127768"
+            }
+          }
+        },
+        "data": [
+          {
+            "SW3D0UC4BQ": {
+              "line_items": [
+                {
+                  "title": "Included in the Box",
+                  "description": "1 x Backpack"
+                },
+                {
+                  "title": "Colour",
+                  "description": "Black"
+                },
+                {
+                  "title": "Material",
+                  "description": "Vegan leather and nylon fabric"
+                },
+                {
+                  "title": "Gender",
+                  "description": "Unisex"
+                },
+                {
+                  "title": "Pack Size",
+                  "description": "Pack of 1"
+                },
+                {
+                  "title": "Capacity",
+                  "description": "30L"
+                },
+                {
+                  "title": "Pattern",
+                  "description": "Solid"
+                },
+                {
+                  "title": "Product Type",
+                  "description": "Backpack"
+                },
+                {
+                  "title": "Product Dimension",
+                  "description": "20 x 13 x 7.5cm"
+                }
+              ]
+            }
+          }
+        ],
+        "type": "PRODUCT_HIGHLIGHTS_WIDGET",
+        "priority": 2,
+        "widgetTimeSlotInfo": {
+          "alwaysActive": true,
+          "widgetSlotDayListMap": null
+        },
+        "segments": []
+      },
+      {
+        "collectionId": 1,
+        "layoutId": 3538,
+        "id": 109676,
+        "active": 1,
+        "widgetInfo": {
+          "widgetType": "PRODUCT_DETAILS_WIDGET",
+          "header": null,
+          "title": "Product details",
+          "fallbackTitle": "",
+          "affordance": false,
+          "autoScrollTime": -1,
+          "description": "Product description enhancement",
+          "platformVersionInfoList": null,
+          "widgetStyles": null,
+          "collectionTheme": "",
+          "widgetIdentifier": null,
+          "analytics": {
+            "objectValue": null,
+            "context": "{}",
+            "impressionObjectName": "impression-menu-widget",
+            "clickObjectName": "click-cta",
+            "extraFields": {
+              "widgetId": "109676"
+            }
+          }
+        },
+        "data": [
+          {
+            "line_items": [
+              {
+                "title": "Description",
+                "description": "<p>Stay organized on the go with the MOKOBARA The Transit Backpack. Designed with both functionality and style in mind, this backpack features a spacious interior with multiple compartments for your laptop, accessories, and daily essentials. Its water-resistant material ensures your belongings stay dry even in unexpected weather. The ergonomic padded straps provide extra comfort, making it ideal for long commutes, travel, or everyday use. With a stylish design that complements any outfit, this backpack is as fashionable as it is functional.</p>"
+              }
+            ],
+            "cta_info": {
+              "pre_expansion_text": "+ Show More",
+              "post_expansion_text": "- Show Less"
+            }
+          }
+        ],
+        "type": "PRODUCT_DETAILS_WIDGET",
+        "priority": 3,
+        "widgetTimeSlotInfo": {
+          "alwaysActive": true,
+          "widgetSlotDayListMap": null
+        },
+        "segments": []
+      },
+      {
+        "collectionId": 1,
+        "layoutId": 3538,
+        "id": 113240,
+        "active": 1,
+        "widgetInfo": {
+          "widgetType": "SELLER_DETAILS_WIDGET",
+          "title": "Seller Details",
+          "fallbackTitle": "",
+          "affordance": false,
+          "autoScrollTime": -1,
+          "description": "",
+          "cities": [],
+          "analytics": {
+            "objectValue": null,
+            "context": "{}",
+            "impressionObjectName": "impression-menu-widget",
+            "clickObjectName": "click-cta",
+            "extraFields": {
+              "widgetId": "113240"
+            }
+          },
+          "footer": "Customer Care: instamart.support@swiggy.in"
+        },
+        "data": [
+          {
+            "sellerDetailsList": [
+              [
+                "Seller Name: PYD RETAIL PVT LTD - CP",
+                "FSSAI Number: 20230921105163967",
+                "Address: LGF,3/7,Asaf ali road,New delhi,110002"
+              ]
+            ],
+            "buttonCard": {
+              "text": null,
+              "iconId": null,
+              "entityType": null,
+              "entityLink": null,
+              "buttonBgColor": null,
+              "textColor": null,
+              "buttonSrc": null,
+              "buttonType": null,
+              "aspectRatio": null,
+              "preExpansionText": "+ Show More",
+              "postExpansionText": "- Show Less"
+            }
+          }
+        ],
+        "type": "SELLER_DETAILS_WIDGET",
+        "priority": 5,
+        "widgetTimeSlotInfo": {
+          "alwaysActive": true,
+          "widgetSlotDayListMap": null
+        },
+        "segments": []
+      }
+    ],
+    "requestId": "cdb06c94-6d11-4ac8-a3be-b7baec11b79f",
+    "storeDetails": {
+      "id": "1386719",
+      "name": "Instamart",
+      "address": "Lower Ground floor ,3/7,Asaf ali road,New delhi,110002",
+      "description": "",
+      "active": true,
+      "priority": 2,
+      "locality": "CP",
+      "categories": [
+        {
+          "id": 52,
+          "name": "Instamart"
+        }
+      ],
+      "tags": [],
+      "sources": [
+        {
+          "source": {
+            "id": 6,
+            "name": "Offline Sourced"
+          },
+          "id_in_source": "MUSTHAVE_455110"
+        }
+      ],
+      "badges": [],
+      "maxAllowedItemsInCart": 200,
+      "maxAllowedCartWeightInGrams": 38000,
+      "maxAllowedCartVolumeInCc": 80000,
+      "minimumOrderValueInRs": 0,
+      "subCategoryTypeMaxAllowedWeights": {},
+      "metadata": {
+        "unstructured_enabled": false,
+        "user_verification_required": false,
+        "guaranteed_delivery": false
+      },
+      "lastOrderTimestamp": 0,
+      "inStockItems": 0,
+      "deliverySlots": [],
+      "invoiceDetails": {
+        "invoice_entity_name": "PYD RETAIL PVT LTD - CP"
+      },
+      "bulkCartConstraints": {
+        "minWeightInGrams": 15000,
+        "minItemCount": 200
+      },
+      "hasPharmacy": false,
+      "pharmacyEnabled": false,
+      "partner": true,
+      "sellerName": "PYD RETAIL PVT LTD - CP",
+      "sellerFssaiAuthorisedAddress": "LGF,3/7,Asaf ali road,New delhi,110002",
+      "sellerFssaiNumber": "20230921105163967",
+      "slottedDeliveryAvailable": false,
+      "unstructuredEnabled": false,
+      "lat_long": "28.641510,77.234238",
+      "phone_numbers": "8851167497",
+      "is_verified": true,
+      "is_partner": true,
+      "image_id": "",
+      "product_categories": [],
+      "store_chain": {
+        "id": 229,
+        "name": "Instamart"
+      },
+      "store_document": {
+        "fssai_license_no": "",
+        "drug_license_no": "",
+        "gstin_number": "07AAMCP3576B1ZC",
+        "liquor_license_no": "",
+        "fssai_reference_no": "20230921105163967",
+        "fssai_registered_business_entity_name": "P Y D RETAIL PRIVATE LIMITED",
+        "fssai_authorised_premises_address": "LGF,3/7,Asaf ali road,New delhi,110002"
+      },
+      "popular_category": {
+        "id": 52,
+        "name": "Instamart"
+      }
+    },
+    "storesDetails": [
+      {
+        "id": "1386719",
+        "name": "Instamart",
+        "storeConstraints": {
+          "maxAllowedItemsInCart": 200,
+          "maxAllowedCartWeightInGrams": 38000,
+          "maxAllowedCartVolumeInCc": 80000,
+          "bulkCartConstraints": {
+            "minWeightInGrams": 15000,
+            "minItemCount": 200
+          }
+        },
+        "priority": "PRIORITY_PRIMARY"
+      }
+    ]
+  },
+  "statusCode": 0
+}
